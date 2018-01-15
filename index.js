@@ -1,1 +1,2 @@
-var obj = {recipes}
+var recipes {}
+
